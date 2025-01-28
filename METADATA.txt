@@ -1,0 +1,1 @@
+images original shape (HEİGHT,WIDTH,CHANNEL)= 1080,1920,3 
