@@ -17,7 +17,8 @@
 </div>
 <div>
   <h3>outputs</h3>
-  <d></d>
+  <img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-1.gif" width="auto">
+<img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-1.gif" width="auto">
 </div>
 
 
