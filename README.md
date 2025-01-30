@@ -22,7 +22,10 @@
     <p>Original estimations</p>
   <img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/origs.jpg" width="auto">
 </div>
-
+<div>
+    <h3>Model</h3>
+    <p>You can access model in training(noise-predictor</p>
+</div>
 
 <div>
       <summary>LICENSE</summary>
