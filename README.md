@@ -16,9 +16,11 @@
   <p>data-collect.ipynb: data collection scripts for dataset merging</p>
 </div>
 <div>
-  <h3>outputs</h3>
+  <h3>Outputs</h3>
+    <p>Noisy estimations</p>
   <img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/noisies.jpg" width="auto">
-<img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/origs.jpg" width="auto">
+    <p>Original estimations</p>
+  <img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/origs.jpg" width="auto">
 </div>
 
 
