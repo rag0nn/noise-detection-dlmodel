@@ -17,8 +17,8 @@
 </div>
 <div>
   <h3>outputs</h3>
-  <img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-1.gif" width="auto">
-<img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-1.gif" width="auto">
+  <img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/noisies.jpg" width="auto">
+<img src="https://github.com/rag0nn/noise-detection-dlmodel/blob/main/origs.jpg" width="auto">
 </div>
 
 
